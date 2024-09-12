@@ -23,3 +23,9 @@ Things you may want to cover:
 
 * ...
 
+
+
+
+
+Hotwire Comments with Ruby on Rails youtube
+https://www.youtube.com/watch?v=WSzliaAeRVU
