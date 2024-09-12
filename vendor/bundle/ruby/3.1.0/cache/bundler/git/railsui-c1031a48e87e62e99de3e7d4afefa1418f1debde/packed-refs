@@ -1,0 +1,23 @@
+# pack-refs with: peeled fully-peeled sorted 
+601c1692370b27883e628885b280e9dd03ed7ac1 refs/heads/dependabot/npm_and_yarn/braces-3.0.3
+fa656e36861cc83038663cd8fdef3f04a9b707f6 refs/heads/depfu/update/nokogiri-1.14.3
+8fbaa9e70f8e6a0f5bf45592e1632be19d179604 refs/heads/improve-ux
+8d80d6ebd2f2badaa9e0a530eda1d79379a1611e refs/heads/main
+f6ba4772e1e5cb4805cd574f179a0912ec7d61f9 refs/heads/namespace-js
+706a2d49d3e27ec08203be964efab7756ee23516 refs/heads/shepherd
+6dc64573629bae5a68299dec48d92840c84803df refs/heads/update-deps
+0c4c0d830331f76e5ce33d5e4fd135ce0b572f6c refs/heads/v3
+d1c8d2d0d1c0304f8ed1dde60dd0316991eaa7b8 refs/tags/v1.0.0
+^cd8dcdf3ca28c317c7d7d5a037eb6acc99162398
+63ce910c80c9c73cee6aecd3c82033c58f08cafc refs/tags/v1.0.1
+^7f55a4fc7c8327d51f1131df4dbd6678942a04af
+1fbf224669a4d88848bfd891412faecebd0c910b refs/tags/v1.0.2
+^da6fa63c577bf8f7394bb6174caef128abced9c9
+2282110c551a3424e4c866e969a82227128818c9 refs/tags/v1.0.3
+fbbfe2e4029cd3dd8e68040781d6110dbc336314 refs/tags/v1.1.0
+df3d87f51501b89238d5efe537f7ffd1af57c77e refs/tags/v1.1.1
+ce61e9a60cd04ca4f78f0bc27f249b8e31fc3ff8 refs/tags/v1.1.2
+02884c080f5843b4ec84b014325fd0cfb65cbf34 refs/tags/v2.0.0
+4b55a11cc3f781b949b22542481386b23505557f refs/tags/v2.1.0
+7714286fe84a5213a59ea06c913bd459515832e5 refs/tags/v2.1.1
+^779dfc31b894fedb330c13316bf21f043804481b

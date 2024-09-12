@@ -1,0 +1,15 @@
+current directory: /Users/Aboubacar/Documents/coDingTest/test/hotwire_comments/vendor/bundle/ruby/3.1.0/gems/racc-1.8.1/ext/racc/cparse
+/Users/Aboubacar/.rbenv/versions/3.1.2/bin/ruby -I /Users/Aboubacar/.rbenv/versions/3.1.2/lib/ruby/3.1.0 -r ./siteconf20240911-19445-888jg4.rb extconf.rb
+creating Makefile
+
+current directory: /Users/Aboubacar/Documents/coDingTest/test/hotwire_comments/vendor/bundle/ruby/3.1.0/gems/racc-1.8.1/ext/racc/cparse
+make DESTDIR\= clean
+
+current directory: /Users/Aboubacar/Documents/coDingTest/test/hotwire_comments/vendor/bundle/ruby/3.1.0/gems/racc-1.8.1/ext/racc/cparse
+make DESTDIR\=
+compiling cparse.c
+linking shared-object racc/cparse.bundle
+
+current directory: /Users/Aboubacar/Documents/coDingTest/test/hotwire_comments/vendor/bundle/ruby/3.1.0/gems/racc-1.8.1/ext/racc/cparse
+make DESTDIR\= install
+/usr/local/bin/ginstall -c -m 0755 cparse.bundle ./.gem.20240911-19445-3wn555/racc

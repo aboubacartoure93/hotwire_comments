@@ -1,0 +1,16 @@
+current directory: /Users/Aboubacar/Documents/coDingTest/test/hotwire_comments/vendor/bundle/ruby/3.1.0/gems/debug-1.9.2/ext/debug
+/Users/Aboubacar/.rbenv/versions/3.1.2/bin/ruby -I /Users/Aboubacar/.rbenv/versions/3.1.2/lib/ruby/3.1.0 -r ./siteconf20240911-19445-l9vuby.rb extconf.rb
+creating Makefile
+
+current directory: /Users/Aboubacar/Documents/coDingTest/test/hotwire_comments/vendor/bundle/ruby/3.1.0/gems/debug-1.9.2/ext/debug
+make DESTDIR\= clean
+
+current directory: /Users/Aboubacar/Documents/coDingTest/test/hotwire_comments/vendor/bundle/ruby/3.1.0/gems/debug-1.9.2/ext/debug
+make DESTDIR\=
+compiling debug.c
+compiling iseq_collector.c
+linking shared-object debug/debug.bundle
+
+current directory: /Users/Aboubacar/Documents/coDingTest/test/hotwire_comments/vendor/bundle/ruby/3.1.0/gems/debug-1.9.2/ext/debug
+make DESTDIR\= install
+/usr/local/bin/ginstall -c -m 0755 debug.bundle ./.gem.20240911-19445-o220d7/debug

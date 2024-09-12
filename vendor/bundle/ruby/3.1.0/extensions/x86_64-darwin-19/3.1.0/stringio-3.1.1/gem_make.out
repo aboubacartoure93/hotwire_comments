@@ -1,0 +1,15 @@
+current directory: /Users/Aboubacar/Documents/coDingTest/test/hotwire_comments/vendor/bundle/ruby/3.1.0/gems/stringio-3.1.1/ext/stringio
+/Users/Aboubacar/.rbenv/versions/3.1.2/bin/ruby -I /Users/Aboubacar/.rbenv/versions/3.1.2/lib/ruby/3.1.0 -r ./siteconf20240911-19445-69s7d0.rb extconf.rb
+creating Makefile
+
+current directory: /Users/Aboubacar/Documents/coDingTest/test/hotwire_comments/vendor/bundle/ruby/3.1.0/gems/stringio-3.1.1/ext/stringio
+make DESTDIR\= clean
+
+current directory: /Users/Aboubacar/Documents/coDingTest/test/hotwire_comments/vendor/bundle/ruby/3.1.0/gems/stringio-3.1.1/ext/stringio
+make DESTDIR\=
+compiling stringio.c
+linking shared-object stringio.bundle
+
+current directory: /Users/Aboubacar/Documents/coDingTest/test/hotwire_comments/vendor/bundle/ruby/3.1.0/gems/stringio-3.1.1/ext/stringio
+make DESTDIR\= install
+/usr/local/bin/ginstall -c -m 0755 stringio.bundle ./.gem.20240911-19445-t5s0q6

@@ -8,5 +8,12 @@
 			<%= comment.content %>
 		</div>
 
+		<div class = "mt-3 flex items-center gap-2 w-full">
+			<%=  link_to	"Edit", edit_post_comment_path(comment.post, comment), class: "btn btn-white" %>
+			<%= button_to "Delete", post_comment_path(comment.post, comment), method: :delete, class: "btn btn-white" %>
+
+		</div>
+
+
 	</div>
 <% end %>
